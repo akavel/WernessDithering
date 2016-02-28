@@ -1,0 +1,3 @@
+This is a copy of the code [shared](https://forums.tigsource.com/index.php?topic=40832.msg1215214#msg1215214) by Koloth (Brent Werness) of [a dithering shader he invented](https://forums.tigsource.com/index.php?topic=40832.msg1212805#msg1212805) [for use on faces of the characters in the game Obra Dinn by dukope (Lucas Pope)](https://forums.tigsource.com/index.php?topic=40832.msg1217196#msg1217196).
+
+I've saved it into a repository on github, so that it wouldn't get lost to history in case it disappears from dropbox.
